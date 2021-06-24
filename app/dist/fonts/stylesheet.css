@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Objective-Bold';
+    src: url('Objective-Bold.eot');
+    src: url('Objective-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Objective-Bold.woff2') format('woff2'),
+        url('Objective-Bold.woff') format('woff'),
+        url('Objective-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Objective-Medium';
+    src: url('Objective-Medium.eot');
+    src: url('Objective-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Objective-Medium.woff2') format('woff2'),
+        url('Objective-Medium.woff') format('woff'),
+        url('Objective-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Objective-Regular';
+    src: url('Objective-Regular.eot');
+    src: url('Objective-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Objective-Regular.woff2') format('woff2'),
+        url('Objective-Regular.woff') format('woff'),
+        url('Objective-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
